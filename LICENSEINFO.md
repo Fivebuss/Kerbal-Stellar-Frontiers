@@ -10,11 +10,13 @@ The PNG icons in `/Configs/Icons/` are from the OrbitIconsPack:
 
 See /Configs/Icons/license.md for the full license text.
 
-I also used SpacePotato's configs inside /Configs/EVE/MiscFX.cfg and /Configs/EVE/ParticleFieldConfig.cfg for some random effects
+
+Excluding some displacement and influence maps (Channel packed), the entirity of /Core/PluginData/* is not my work
+I also used SpacePotato's configs inside SystemNovus/Configs/EVE/MiscFX.cfg and SystemNovus/Configs/EVE/ParticleFieldConfig.cfg for some random effects
 
 # Regarding textures and such
 
-If you are insane enough to use one of my horrifying textures, you have bigger problems than licensing
+If you are crazy enough to use one of my horrifying textures, you have bigger problems than licensing
 Though as stated, you must also use GPLv3
 
 # Why GPLv3 like an insane person and not CreativeCommons for textures
